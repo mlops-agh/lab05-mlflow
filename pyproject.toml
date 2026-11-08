@@ -10,6 +10,8 @@ dependencies = [
     "click",
     "dvc",
     "feature-engine",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
     "jupyter",
     "mlflow",
     "numpy",

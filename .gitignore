@@ -221,3 +221,7 @@ __marimo__/
 
 # Remote data
 remote_data/
+
+# MLFLOW
+mlflow-artifacts/
+mlflow.db
